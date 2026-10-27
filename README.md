@@ -247,3 +247,5 @@ Before exposing the application to other machines or users:
 ## Project status
 
 The README documents the intended setup. It does not claim that modules, endpoints, or tests have been implemented until their corresponding implementation phases are completed and verified.
+#   N E X O R A - A I  
+ 
